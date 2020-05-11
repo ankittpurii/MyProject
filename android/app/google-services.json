@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148089592154",
+    "firebase_url": "https://getordersonline-28e88.firebaseio.com",
+    "project_id": "getordersonline-28e88",
+    "storage_bucket": "getordersonline-28e88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148089592154:android:21eb8492cca96e779cfb63",
+        "android_client_info": {
+          "package_name": "com.ordersonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148089592154-n0ui1m7h9n06ef0kkij39d9lnmjom3et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPvNJUqp_kj9xjmEujwI2NPgo-l7d85mE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148089592154-n0ui1m7h9n06ef0kkij39d9lnmjom3et.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
